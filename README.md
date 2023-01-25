@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FischlmayrDaniel
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C# and C/C++
+- 🌱 I’m currently learning C#, C/C++, Java and Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me daniel.fischlmayr@gmx.at
 
